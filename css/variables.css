@@ -1,0 +1,34 @@
+/* ==========================================
+   SATYA Design System
+   ========================================== */
+
+:root{
+
+    /* Brand Colors */
+    --primary-green:#0B7A33;
+    --primary-blue:#165BAA;
+    --accent-orange:#F57C00;
+    --light-green:#6CC24A;
+
+    /* Neutral Colors */
+    --white:#FFFFFF;
+    --background:#F8FAFC;
+    --dark:#1F2937;
+    --text:#4B5563;
+
+    /* Fonts */
+    --heading-font:'Poppins',sans-serif;
+    --body-font:'Inter',sans-serif;
+
+    /* Layout */
+    --container-width:1200px;
+
+    /* Radius */
+    --radius:12px;
+
+    /* Shadow */
+    --shadow:0 10px 30px rgba(0,0,0,.08);
+
+    /* Transition */
+    --transition:.3s ease;
+}
